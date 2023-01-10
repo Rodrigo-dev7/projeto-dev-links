@@ -92,6 +92,10 @@ body * {
   outline: 8px solid var(--highlight-color);
 }
 
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
+}
+
 #switch span {
   display: block;
   width: 64px;
