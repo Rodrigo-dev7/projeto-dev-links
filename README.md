@@ -18,7 +18,7 @@ Aplicativo exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto Devlinks" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/xzyixAKkyrJqbS6KLzptuO/DevLinks-(Community)?node-id=0%3A1&t=7H8htvrYIS90WXG9-0/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/xzyixAKkyrJqbS6KLzptuO/DevLinks-(Community)?node-id=0%3A1&t=7H8htvrYIS90WXG9-0/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
